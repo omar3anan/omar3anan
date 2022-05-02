@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **anything related about programming and life**
 
-- 📫 How to reach me **omarabouromia@gmail.com@gmail.com**
+- 📫 How to reach me **omarabouromia@gmail.com@**
 
 - 📄 Know about my experiences :https://drive.google.com/drive/u/1/folders/1HveUqE8ABxLwOoNfjDOsyS6I0fLmnx2c
 
