@@ -25,7 +25,7 @@
 
 - 📫 How to reach me **omarabouromia@gmail.com**
 
-- 📄 Know about my experiences :**https://drive.google.com/drive/u/1/folders/1HveUqE8ABxLwOoNfjDOsyS6I0fLmnx2c**
+- 📄 Know about my experiences :**https://drive.google.com/file/d/1F5_ef6h7oOuTjhingxnbWU_BkZHb2FSN/view?usp=sharing**
 
 
 <h3 align="left">Connect with me:</h3>
