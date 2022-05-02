@@ -27,9 +27,6 @@
 
 - 📄 Know about my experiences :**https://drive.google.com/drive/u/1/folders/1HveUqE8ABxLwOoNfjDOsyS6I0fLmnx2c**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -39,12 +36,7 @@
 <a href="https://www.facebook.com/profile.php?id=100009334806969" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar3anan" height="30" width="40" /></a>      
 <a href="https://www.instagram.com/omar3anan/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar3anan/?hl=en" height="30" width="40" /></a>      
 <a href="https://twitter.com/OmarAnan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omar3anan" height="30" width="40" /></a>
-<!--         <a href="https://www.behance.net/omarwaleed3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/omarwaleed3" height="30" width="40" /></a>     -->
-<!-- <a href="https://www.hackerrank.com/omarwaleedzenho1" target="blank"><img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/96/000000/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-color-tal-revivo.png" alt="non" height="30" width="40" /></a> -->     
-<!-- <a href="https://www.youtube.com/channel/uczm5gb5acrzsprf5bijxcjw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczm5gb5acrzsprf5bijxcjw" height="30" width="40" /></a> -->   
-<!--         
-<a href="https://discord.gg/Omar Waleed#1937" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Omar Waleed#1937" height="30" width="40" /></a> -->
-</p>
+
 
 <h3 align="left">Languages and Tools:</h3>
 <br>
