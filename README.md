@@ -62,7 +62,7 @@
 <h2 align="left">Activites:</h2><br>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=omarzen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="omar3anan" /></p><br>
 
-<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=omarzen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="omar3anan" /></p><br>
+<p>&nbsp;<br><img align="center" src="https://github-readme-stats.vercel.app/api?username=omar3anan&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="omar3anan" /></p><br>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=omarzen&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" alt="omarzen" /></p><br>
 
