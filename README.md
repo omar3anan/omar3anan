@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
 
 <h1 align="center">
-        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Omar;Full+Stack+developer;And+Software+Developer" alt="Omar3anan" />
+        <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&color=4DD421&lines=Hey!+I'm+Omar+Abou-Romia;Undergraduate+Software+Engineer;Consistency+Is+The+Key" alt="Omar3anan" />
         </h1>
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
