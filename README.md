@@ -4,11 +4,12 @@
 <!-- <img alt="Night Coding" src="https://user-images.githubusercontent.com/88105077/157883808-762a27a1-c1c5-447c-80a1-fb892f511393.png" align="right"/><br> -->
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar3anan&label=Profile%20views&color=0e75b6&style=flat" alt="omar3anan" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
-
 <h1 align="center">
         <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Press+Start+3P&size=20&color=4DD421&lines=Hey!+I'm+Omar+Abou-Romia;Undergraduate+Software+Engineer;Consistency+Is+The+Key" alt="Omar3anan" />
         </h1>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
+
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
 - 🔭 I’m currently working on  Learning everything 🤣 but I am interested in **C++/Java/Python Projects**
