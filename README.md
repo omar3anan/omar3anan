@@ -18,7 +18,7 @@
 
 - 🔭 I’m currently working on  Learning everything  but I am interested in **C++/Java/Python Projects**
 
-- 🌱 I’m currently learning **everything**
+- 🌱 I’m currently learning DevOps & AWS re/Start Program Cloud
 
 - 👯 I’m looking to collaborate **with other content creators**
 
