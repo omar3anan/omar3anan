@@ -37,7 +37,7 @@
 <a href="https://codeforces.com/profile/omar3anan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Omar3anan" height="30" width="40" /></a>
 <a href="https://leetcode.com/Anan_TheAnswer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omar3anan" height="30" width="40" /></a>
 <a href="https://www.facebook.com/omar.anan.52" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omar3anan" height="30" width="40" /></a>      
-<a href="https://www.instagram.com/omar3anan/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar3anan/?hl=en" height="30" width="40" /></a>      
+<a href="https://www.instagram.com/omar3anan/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/omar3anan/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omar3anan/?hl=en" height="30" width="40" /></a>      
 <a href="https://twitter.com/OmarAnan9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omar3anan" height="30" width="40" /></a>
 
 
