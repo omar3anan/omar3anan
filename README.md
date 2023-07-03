@@ -7,7 +7,7 @@
   <img alig src="https://github-profile-trophy.vercel.app/?omar3anan&column=6&rank=SSS,SS,S,AAA,AA,A,B,C" />
 </p> -->
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
 
 
 <h1 align="center">
