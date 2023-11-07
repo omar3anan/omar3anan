@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Anan Abou-Romia</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">SWE</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omar3anan&label=Profile%20views&color=0e75b6&style=flat" alt="omar3anan" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omarabouromia@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1lTuZmmsLqIF5DVkZJ5ElMxzKQ0vPaTxN/view?usp=sharing](https://drive.google.com/file/d/1lTuZmmsLqIF5DVkZJ5ElMxzKQ0vPaTxN/view?usp=sharing)
+- 📄 Know about my experiences [[https://drive.google.com/file/d/1lTuZmmsLqIF5DVkZJ5ElMxzKQ0vPaTxN/view?usp=sharing](https://drive.google.com/file/d/1lTuZmmsLqIF5DVkZJ5ElMxzKQ0vPaTxN/view?usp=sharing](https://drive.google.com/file/d/1N8e-dKNLkeCq52uaFp8VmOAWIayKCK4R/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
