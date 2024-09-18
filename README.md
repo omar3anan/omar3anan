@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **omarabouromia@gmail.com**
 
-- 📄 Know about my experiences ([CV](https://drive.google.com/file/d/1B_7W0McsQwbA3vgPnoXAKo4MLlp_PQNe/view?usp=sharing))
+- 📄 Know about my experiences [CV](https://drive.google.com/file/d/1B_7W0McsQwbA3vgPnoXAKo4MLlp_PQNe/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
