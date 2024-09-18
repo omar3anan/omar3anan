@@ -5,11 +5,11 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
 
-- 🔭 I’m currently Software Engineer Trainee at **Dstny Engage**
+- 🔭 I’m currently Software Engineer Trainee at **JPMorgan Chase Experience Program **
 
-- 🌱 I’m currently learning **Microsoft Azure , Integration ,NodeJS , Elasticsearch**
+- 🌱 I’m currently learning **SpringBoot , AWS ,Microservices, Integration ,NodeJS , Elasticsearch**
 
-- 🔭 I’m currently working on **Onboarding - Troubleshooting Chatbot**
+- 🔭 I’m currently working on ** Facetime Application **
 
 - 👨‍💻 All of my projects are available at [https://omar3anan.github.io/](https://omar3anan.github.io/)
 
