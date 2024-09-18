@@ -5,7 +5,7 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=omar3anan" alt="omar3anan" /></a> </p>
 
-- 🔭 I’m currently Software Engineer Trainee at **JPMorgan Chase Experience Program **
+- 🔭 I’m currently Software Engineer Trainee at **JPMorgan Chase Experience Program**
 
 - 🌱 I’m currently learning **SpringBoot , AWS ,Microservices, Integration ,NodeJS , Elasticsearch**
 
