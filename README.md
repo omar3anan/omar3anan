@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **SpringBoot , AWS ,Microservices, Integration ,NodeJS , Elasticsearch**
 
-- 🔭 I’m currently working on ** Facetime Application **
+- 🔭 I’m currently working on **Facetime Application**
 
 - 👨‍💻 All of my projects are available at [https://omar3anan.github.io/](https://omar3anan.github.io/)
 
